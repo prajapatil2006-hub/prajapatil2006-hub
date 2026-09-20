@@ -3,229 +3,225 @@
 ### 🐍 Python Developer | 💻 Software Developer | 🤖 AI/ML Enthusiast
 
 🎓 B.Tech CSE (AI/ML) Undergraduate at **Sarala Birla University**
-💡 Passionate about building **Python applications, backend systems, REST APIs, and AI-powered solutions**
-🚀 Interested in **Artificial Intelligence, Machine Learning, Computer Vision, NLP & Web Development**
+
+💡 Passionate about building **Python applications, backend systems, REST APIs, AI/ML solutions, and computer-vision applications.**
+
+🚀 Interested in **Artificial Intelligence, Machine Learning, NLP, Computer Vision, Django, and Software Development.**
 
 ---
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science & Engineering student specializing in **Artificial Intelligence & Machine Learning**
+🎓 Computer Science & Engineering undergraduate specializing in **Artificial Intelligence & Machine Learning**
 
 🐍 Passionate about **Python development and backend engineering**
 
-🌐 Experienced in building applications using **Django & Django REST Framework**
+🌐 Experienced in building web applications using **Django & Django REST Framework**
 
-🔐 Interested in **REST APIs, authentication, role-based systems and database-driven applications**
+🔗 Interested in developing **REST APIs, database-driven applications, and secure backend systems**
 
-🤖 Exploring **Machine Learning, NLP, AI applications and Computer Vision**
+🤖 Exploring **Machine Learning, NLP, LLMs, and AI-powered applications**
 
-👁️ Built a **real-time Hand Gesture Controlled YouTube Player** using Python, OpenCV and MediaPipe
+👁️ Built a **real-time Hand Gesture Controlled YouTube Player** using Python, OpenCV & MediaPipe
 
 🏢 Developed an **Employee Medical Bill Management System** during my internship at **CMPDI**
 
-🚨 Building **LifeBridge AI**, an emergency response platform connecting citizens, responders, hospitals and shelters
+🚨 Building **LifeBridge AI**, an emergency response and disaster assistance platform
 
-📊 Completed Data Science training and worked on multiple Python/Django projects
+📊 Completed Data Science training and multiple Python/Django projects
 
 ---
 
-## 🚀 What I'm Working On
+# 🚀 What I'm Working On
 
-| Area                | Current Focus                                   |
-| ------------------- | ----------------------------------------------- |
-| 🐍 Python           | Backend Development • Automation • Applications |
-| 🌐 Web Development  | Django • Django REST Framework • REST APIs      |
-| 🤖 AI / ML          | Machine Learning • NLP • AI Applications        |
-| 👁️ Computer Vision | OpenCV • MediaPipe • Real-time Detection        |
-| 🗄️ Databases       | PostgreSQL • MySQL • SQLite                     |
-| 🔐 Backend Security | JWT • Authentication • Role-Based Access        |
-| 🛠️ Development     | Git • GitHub • VS Code                          |
+| Area | Current Focus |
+|---|---|
+| 🐍 Python | Backend Development • Automation • Applications |
+| 🌐 Web Development | Django • Django REST Framework • REST APIs |
+| 🤖 AI / ML | Machine Learning • NLP • AI Applications |
+| 👁️ Computer Vision | OpenCV • MediaPipe • Real-time Detection |
+| 🗄️ Databases | PostgreSQL • MySQL • SQLite |
+| 🔐 Backend | JWT • Authentication • Role-Based Access |
+| 🛠️ Development | Git • GitHub • VS Code |
 
 ---
 
 # ⭐ Featured Projects
 
-### 🏢 Employee Medical Bill Management System
+## 🏢 Employee Medical Bill Management System
 
 **Python • Django • Django REST Framework • PostgreSQL • JavaScript**
 
 A web-based system developed during my **CMPDI internship** to digitize employee management and medical reimbursement workflows.
 
-✨ **Key Features**
+### ✨ Key Features
 
-* 👥 Employee management & CRUD operations
-* 💰 Medical bill processing and reimbursement workflow
-* 🔐 JWT authentication
-* 🛡️ Role-based access control
-* 📊 Bill status & workflow history
-* 📑 Excel upload and preview
-* 🗄️ PostgreSQL database integration
-* 🔗 REST API-based frontend/backend integration
+- 👥 Employee management & CRUD operations
+- 💰 Medical bill processing and reimbursement workflow
+- 🔐 JWT authentication
+- 🛡️ Role-based access control
+- 📊 Bill status & workflow history
+- 📑 Excel upload and preview
+- 🗄️ PostgreSQL database integration
+- 🔗 REST API-based frontend/backend integration
 
 ---
 
-### 🚨 LifeBridge AI — Emergency Response & Disaster Assistant
+## 🚨 LifeBridge AI — Emergency Response & Disaster Assistant
 
 **Python • Django • Django REST Framework • AI/ML • PostgreSQL**
 
-An emergency-response platform designed to help citizens and responders coordinate during emergencies.
+An emergency-response platform designed to help citizens, responders, hospitals, shelters and volunteers coordinate during emergencies.
 
-✨ **Key Features**
+### ✨ Key Features
 
-* 🆘 SOS and emergency incident management
-* 👤 Role-based dashboards
-* 🚑 Responder and volunteer coordination
-* 🏥 Hospital and emergency-resource management
-* 🏠 Shelter management
-* 📍 Location-based emergency information
-* 🗺️ Interactive map integration
-* 🔐 Authentication and role-based workflows
+- 🆘 SOS and emergency incident management
+- 👤 Role-based dashboards
+- 🚑 Responder and volunteer coordination
+- 🏥 Hospital and emergency-resource management
+- 🏠 Shelter management
+- 📍 Location-based emergency information
+- 🗺️ Interactive map integration
+- 🔐 Authentication and role-based workflows
+- 📊 Database-driven emergency management
 
 ---
 
-### 🖐️ Hand Gesture Controlled YouTube Player
+## 🖐️ Hand Gesture Controlled YouTube Player
 
 **Python • OpenCV • MediaPipe • PyAutoGUI**
 
 A real-time computer-vision application that enables YouTube control using hand gestures.
 
-✨ **Key Features**
+### ✨ Key Features
 
-* 👋 Real-time hand landmark detection
-* ▶️ Play/Pause gesture controls
-* 🔄 Swipe-based video navigation
-* 📜 Gesture-based scrolling
-* ⏩ Video navigation controls
-* ⚡ Action cooldown & debouncing
-* 🎯 Improved gesture stability
-* 🧩 Modular gesture-recognition architecture
+- 👋 Real-time hand landmark detection
+- ▶️ Gesture-based play/pause
+- 🔄 Swipe-based video navigation
+- 📜 Gesture-based scrolling
+- ⏩ Video navigation controls
+- ⚡ Action cooldown & debouncing
+- 🎯 Improved gesture stability
+- 🧩 Modular gesture-recognition architecture
+- 🖥️ Browser control using PyAutoGUI
 
 ---
 
-## 💼 Experience
+# 💼 Experience
 
-### 🏢 Central Mine Planning & Design Institute — CMPDI
+## 🏢 Central Mine Planning & Design Institute — CMPDI
 
-**Web Developer (Python) Intern**
+### Web Developer (Python) Intern
 
 Worked on a Django-based employee and medical bill management system.
 
-**Technologies:** Python • Django • Django REST Framework • PostgreSQL • JavaScript • REST APIs
+**Technologies:**
+
+`Python` `Django` `Django REST Framework` `PostgreSQL` `JavaScript` `REST APIs` `JWT`
+
+### Key Contributions
+
+- Developed employee management functionality
+- Built REST APIs using Django REST Framework
+- Implemented JWT authentication
+- Implemented role-based access control
+- Developed employee CRUD operations
+- Added Excel upload and preview functionality
+- Implemented medical bill workflow tracking
+- Integrated PostgreSQL database
+- Connected JavaScript frontend with Django APIs
 
 ---
 
-### 💻 Codtech IT Solutions Pvt. Ltd.
+## 💻 Codtech IT Solutions Pvt. Ltd.
 
-**Python / AI Intern**
+### Python / AI Intern
 
-Worked on Python and Django-based applications and developed projects including:
+Worked on Python and Django-based applications and developed multiple projects.
 
-* ✅ To-Do Web Application
-* ☁️ Cloud Web Application
-* 💰 Expense Tracker
-* 📝 Blog Website
+### Projects
+
+- ✅ To-Do Web Application
+- ☁️ Cloud Web Application
+- 💰 Expense Tracker
+- 📝 Blog Website
+
+**Technologies:**
+
+`Python` `Django` `Database Integration` `HTML` `CSS` `JavaScript`
 
 ---
 
-### 📊 Acmegrade
+## 📊 Acmegrade
 
-**Data Science Trainee**
+### Data Science Trainee
 
-Gained practical experience in data analysis, preprocessing and machine-learning fundamentals.
+Gained practical exposure to:
+
+- Data analysis
+- Data preprocessing
+- Exploratory data analysis
+- Machine learning fundamentals
+- Python-based data science workflows
 
 ---
 
 # 🧠 Tech Stack
 
-### 💻 Programming
+### 💻 Programming Languages
 
-`Python` `C` `C++` `JavaScript` `HTML` `CSS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Web Development
 
-`Django` `Django REST Framework` `Flask` `REST APIs`
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-FF1709?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 
-`Machine Learning` `NLP` `TensorFlow` `LLM` `AI Applications`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
 
-### 👁️ Computer Vision
-
-`OpenCV` `MediaPipe`
+**Machine Learning • NLP • LLMs • Computer Vision**
 
 ### 🗄️ Databases
 
-`PostgreSQL` `MySQL` `SQLite`
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🛠️ Tools
 
-`Git` `GitHub` `VS Code` `PyAutoGUI`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 # 📚 Currently Learning
 
 ```text
-Artificial Intelligence
+🤖 Artificial Intelligence
 ├── Machine Learning
-├── NLP
+├── Natural Language Processing
 ├── LLM Applications
 └── AI-powered Systems
 
-Software Development
+🌐 Software Development
 ├── Advanced Django
 ├── REST API Development
 ├── Backend Architecture
 └── Database Design
 
-Computer Vision
+👁️ Computer Vision
 ├── OpenCV
 ├── MediaPipe
-├── Object Detection
+├── Gesture Recognition
 └── Real-time Applications
-```
-
----
-
-# 🏆 Certifications & Learning
-
-🎓 Data Science Training — Acmegrade
-
-🌐 CCNA: Introduction to Networks
-
-🐍 CCNA: Python Essentials
-
-🤖 CCNA: Apply AI
-
-📊 CCNA: Data Science
-
-🧠 CCNA: Introduction to Modern AI
-
-📈 Deloitte Australia — Data Analytics Job Simulation
-
----
-
-# 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajapatil2006-hub\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatil2006-hub\&layout=compact\&theme=tokyonight\&hide_border=true)
-
----
-
-# 🤝 Let's Connect
-
-💼 **LinkedIn:** [Lucky Prajapati](https://www.linkedin.com/in/lucky-prajapati-34467539b/)
-
-📧 **Email:** `prajapati.l2006@gmail.com`
-
-💻 **GitHub:** [@prajapatil2006-hub](https://github.com/prajapatil2006-hub)
-
----
-
-### 🚀 Build • Learn • Experiment • Improve
-
-**Python • Django • AI/ML • Computer Vision • REST APIs • Software Development**
-
-⭐ *Feel free to explore my repositories and projects!*
