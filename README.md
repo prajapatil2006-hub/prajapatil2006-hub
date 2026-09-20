@@ -225,3 +225,26 @@ Gained practical exposure to:
 ├── MediaPipe
 ├── Gesture Recognition
 └── Real-time Applications
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=prajapatil2006-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajapatil2006-hub&layout=compact&theme=tokyonight&hide_border=true" height="180"/> </p>
+🔥 GitHub Streak
+<p align="center"> <img src="https://streak-stats.demolab.com?user=prajapatil2006-hub&theme=tokyonight&hide_border=true"/> </p>
+🏆 GitHub Achievements
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=prajapatil2006-hub&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/> </p>
+📈 Contribution Activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=prajapatil2006-hub&theme=tokyo-night&hide_border=true"/> </p>
+💬 Ask Me About
+
+🐍 Python Development
+🌐 Django & REST APIs
+🤖 Artificial Intelligence
+🧠 Machine Learning
+💬 NLP & LLM Applications
+👁️ Computer Vision
+🗄️ PostgreSQL & Databases
+🔐 JWT Authentication & RBAC
+💻 Software Development
+
+🤝 Let's Connect
+<p align="center"> <a href="https://www.linkedin.com/in/lucky-prajapati-34467539b/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:prajapati.l2006@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/prajapatil2006-hub"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
